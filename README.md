@@ -6,6 +6,14 @@
 
 ###  Status: Concluído ✔ <br>
 
+## 🗂 Sumário
+
+- [Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto-Inicial--Projeto-N1-2024/edit/main/README.md#-descri%C3%A7%C3%A3o-do-projeto)
+- [Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto-Inicial--Projeto-N1-2024/edit/main/README.md#-tecnologias-utilizadas)
+- [Objetivos do Curso](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto-Inicial--Projeto-N1-2024/edit/main/README.md#-objetivos-do-curso)
+- [Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto-Inicial--Projeto-N1-2024/edit/main/README.md#estrutura-do-projeto)
+- [Autor do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto-Inicial--Projeto-N1-2024/edit/main/README.md#-autor-do-projeto) <br>
+
 ## 📝 Descrição do Projeto
 
 O projeto cria o Jogo do Número Secreto. O usuário deve realizar chutes até descobrir a resposta, contando com dicas se o número é maior ou menor do que o palpite. Ao acertar, o programa projeta uma imagem de felicitações. <br><br>
