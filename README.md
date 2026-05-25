@@ -8,11 +8,11 @@
 
 ## 🗂 Sumário
 
-- [Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto-Inicial--Projeto-N1-2024#-descri%C3%A7%C3%A3o-do-projeto)
-- [Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto-Inicial--Projeto-N1-2024#-tecnologias-utilizadas)
-- [Objetivos do Curso](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto-Inicial--Projeto-N1-2024#-objetivos-do-curso)
-- [Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto-Inicial--Projeto-N1-2024#estrutura-do-projeto)
-- [Autor do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto-Inicial--Projeto-N1-2024#-autor-do-projeto) <br>
+- [📝 Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto-Inicial--Projeto-N1-2024#-descri%C3%A7%C3%A3o-do-projeto)
+- [⚡ Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto-Inicial--Projeto-N1-2024#-tecnologias-utilizadas)
+- [🧠 Objetivos do Curso](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto-Inicial--Projeto-N1-2024#-objetivos-do-curso)
+- [📂 Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto-Inicial--Projeto-N1-2024#estrutura-do-projeto)
+- [✨ Autor do Projeto](https://github.com/Victor-M-S-Rodrigues07/Jogo-do-Numero-Secreto-Inicial--Projeto-N1-2024#-autor-do-projeto) <br>
 
 ## 📝 Descrição do Projeto
 
