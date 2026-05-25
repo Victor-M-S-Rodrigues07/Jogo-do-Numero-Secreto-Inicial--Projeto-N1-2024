@@ -29,7 +29,18 @@ Esse jogo foi proposto para o curso "Lógica de programação: mergulhe em progr
 - Desenvolva uma aplicação do início ao fim, inspirada no mundo real;
 - Aprenda a adaptar soluções desenvolvidas pela linguagem em seus programas de software.
 
-## Autor do Projeto
+## 📂Estrutura do Projeto
+
+```
+/img
+  /JS Game_files
+
+app.js
+index.html
+README.md
+style.css
+```
+## ✨ Autor do Projeto
 
 <img src = "https://avatars.githubusercontent.com/u/187053289?v=4" width = 150px> <br>
 <strong> Victor </strong>
